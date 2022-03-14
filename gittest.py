@@ -1,3 +1,3 @@
 import pygame
 import math
-def lol
+def lols
